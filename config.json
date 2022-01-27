@@ -1,0 +1,29 @@
+{
+    
+    "user":"company.admin",
+    "password":"123456",
+    "formtaskmapid":42719,
+
+    "name_key":"var17e8f5f4b9a",
+    "age_key":"var17e8f5f5bb8",
+    "current_address_key":"var17e8f5f8101",
+    "new_address_key":"var17e8f5fa058",
+    "proof_key":"var17e8f5fc030",
+
+
+
+    "actionId":"act17e8f63edc6",
+    "action":"create",
+    "formName":"Adress change form",
+    "formId":"frm17e8f5f0bc1",
+    "actionType":"LIST_ACTION",
+    "formVersion":"0.0.0"
+ 
+   
+    
+    
+    
+
+
+
+}

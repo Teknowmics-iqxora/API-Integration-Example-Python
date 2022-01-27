@@ -1,0 +1,57 @@
+{
+  "components": [
+    {
+      "required": "false",
+      "minValue": "0",
+      "type": "SINGLE_LINE",
+      "maxValue": "100",
+      "key": "var17e8f5f4b9a",
+      "modelFieldKey": "name",
+      "label": "Name",
+      "value": ""
+    },
+    {
+      "required": "false",
+      "minValue": "0",
+      "type": "NUMBER",
+      "maxValue": "99999",
+      "key": "var17e8f5f5bb8",
+      "modelFieldKey": "age",
+      "label": "Age",
+      "value": ""
+    },
+    {
+      "required": "false",
+      "minValue": "0",
+      "type": "MULTI_LINE",
+      "maxValue": "400",
+      "key": "var17e8f5f8101",
+      "modelFieldKey": "currentaddress",
+      "label": "Current Address",
+      "value": ""
+    },
+    {
+      "required": "false",
+      "minValue": "0",
+      "type": "MULTI_LINE",
+      "maxValue": "400",
+      "key": "var17e8f5fa058",
+      "modelFieldKey": "newaddress",
+      "label": "New Address",
+      "value": ""
+    },
+    {
+      "required": "false",
+      "type": "FILE",
+      "key": "var17e8f5fc030",
+      "modelFieldKey": "proof",
+      "label": "Proof",
+      "fileList": [
+        {
+          "fileId": "",
+          "fileName": ""
+        }
+      ]
+    }
+  ]
+}
