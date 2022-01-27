@@ -37,5 +37,5 @@
 
 On clicking **Address Change** tab on the left the form fields of the application will appear on the right.
 
-![forms](/images/form.png)
+![forms](/images/form.PNG)
  
