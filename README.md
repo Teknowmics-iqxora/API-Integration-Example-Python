@@ -45,4 +45,4 @@ On clicking **Address Change** tab on the left the form fields of the applicatio
  
  Documents will appear on the documents tab on list view.
  
-![documents](/images/List documents.PNG)
+![documents](/images/documents.PNG)
