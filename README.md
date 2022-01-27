@@ -43,6 +43,6 @@ On clicking **Address Change** tab on the left the form fields of the applicatio
  
 ![List](/images/List.PNG)
  
- Documents will appear on the documents tab on list view.
+ Documents will appear on the **documents** tab on list view.
  
 ![documents](/images/documents.PNG)
