@@ -11,7 +11,7 @@
  
  ## Steps in the script file:
  
- 1.Login to smartdocs login api with credentials.
+ 1.Login to smartdocs uisng login api with credentials.
 
  2.After succesful login use fileUpload api for uploading files to application.
 
