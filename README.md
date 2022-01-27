@@ -11,21 +11,21 @@
  
  ## Steps in the script file:
  
- 1.Login to smartdocs using login api with credentials.
+ 1. Login to smartdocs using login api with credentials.
 
- 2.After succesful login use fileUpload api for uploading files to application.
+ 2. After succesful login use fileUpload api for uploading files to application. This step is required only if the form contains file fields.
 
- 3.successful upload of files will return fileId and fileName.
+ 3. Successful upload of files will return fileId and fileName.
 
- 4.To access the application formdata use formGet api.
+ 4. To access the application formdata use formGet api.
 
- 5.Filer the neccesary fields from obtained json and save it as "sample.json".
+ 5. Filer the neccesary fields from obtained json and save it as "sample.json".
 
- 6.Create a sample data for uploading to formfields.
+ 6. Create a sample data for uploading to formfields.
 
- 7.Insert the sample data and fileId, fileName  to "sample.json".
+ 7. Insert the sample data and fileId, fileName  to "sample.json".
 
- 8.Use formSubmit api to submit the form to smartdocs application.
+ 8. Use formSubmit api to submit the form to smartdocs application.
  
  **Verify the data by logging in to the smartdocs application**
  
