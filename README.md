@@ -46,3 +46,8 @@ On clicking **Address Change** tab on the left the form fields of the applicatio
  Documents will appear on the **documents** tab on list view.
  
 ![documents](/images/documents.PNG)
+
+## How to get variable id for form fields
+
+To get the variable id of a particular form field Open Studio, Open Form Design. Then in the FormFields tab variable id is available against each form fields.
+
