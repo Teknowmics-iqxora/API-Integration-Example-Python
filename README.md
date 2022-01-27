@@ -57,4 +57,4 @@ To get the variable id of a particular form field Open Studio, Open Form Design.
 
 To get the action id of a particular form action Open Studio, Open Screens / List Design. Then in the Actions tab variable id is available against each actions.
 
-![actionid](/images/Action_variable.png)
+![actionid](/images/Action-variable.png)
