@@ -52,3 +52,9 @@ On clicking **Address Change** tab on the left the form fields of the applicatio
 To get the variable id of a particular form field Open Studio, Open Form Design. Then in the FormFields tab variable id is available against each form fields.
 
 ![variableid](/images/form_variable.png)
+
+## How to get variable id for form actions
+
+To get the action id of a particular form action Open Studio, Open Screens / List Design. Then in the Actions tab variable id is available against each actions.
+
+![actionid](/images/Action_variable.png)
