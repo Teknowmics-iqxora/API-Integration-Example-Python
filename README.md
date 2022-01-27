@@ -59,6 +59,8 @@ To get the action id of a particular form action Open Studio, Open Screens / Lis
 
 ![actionid](/images/action_variable.png)
 
+## How to get formId and formName from Form Design
+
 To get formId and formName of an application Open Studio, Open Form Design . Then in Info formName and formId will be listed
 
 ![formid](/images/formid1.PNG)
