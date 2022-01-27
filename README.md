@@ -28,3 +28,9 @@
  8.Use formSubmit api to submit the form to smartdocs application.
  
  **Verify the data by logging in to the smartdocs application**
+ 
+ ## IQXORA application for Python API integration
+ 
+ An application is created in IQXORA for testing API integration. This applicatio is a simple address change request. There are five form fields. The model of the application is given below.
+
+ 
