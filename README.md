@@ -41,5 +41,5 @@ On clicking **Address Change** tab on the left the form fields of the applicatio
  
  There are five form fields. We use formGet api on python to retrieve form field variables of this form and insert values to form json along with file information and call formSubmit api to complete the form submission. The list view of the submitted form data is given below.
  
-![List](/images/list.PNG)
+![List](/images/List.PNG)
  
