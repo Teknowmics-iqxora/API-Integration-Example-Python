@@ -1,11 +1,11 @@
 # API-Integration-Example-Python
  This is simple python script which introduce the smartdocs api such as user login, fileUpload, formGet and formSubmit to smartdocs application.
 
- All the api urls are provided in "constants.py" file.
+ All the api urls are provided in **"constants.py"** file.
  
- All other settings are provided in "config.py" file.
+ All other settings are provided in **"config.py"** file.
  
- Run file "main.py to start" .
+ Run file **"main.py** to start" .
  
  ## Steps in the script file:
  
