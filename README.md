@@ -33,4 +33,5 @@
  
  An application is created in IQXORA for testing API integration. This applicatio is a simple address change request. There are five form fields. The model of the application is given below.
 
+![Model](/images/model.png)
  
